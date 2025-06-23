@@ -1,0 +1,73 @@
+*{
+    margin-bottom: 5px;
+}
+a{
+    color: white;
+}
+header {
+    background-image: url("img/header.jpg");
+    background-size: 17% auto;
+}
+.titulo{
+    text-decoration: none;
+}
+h1{
+    color: blue;
+}
+.hola{
+    background-color: red;
+    color: white;
+}
+
+ul{
+    list-style: none;
+}
+li{
+    background-color: red;
+    padding: 5px;
+    border: 1px solid black;
+    margin-left: -40px;
+}
+
+section {
+    clear: both;
+}
+table{
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+    text-align: center;
+    float: left;
+}
+td{
+    margin: 0;
+    border: 1px solid black;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+.resena{
+    background-color: orange;
+}
+.nombre_comentario{
+    margin-bottom: 0;
+}
+.comentario{
+    background-color: gray;
+}
+.onstar{
+    color: yellow;
+}
+.offstar{
+    color: grey;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 30px;
+}
